@@ -1,0 +1,201 @@
+canditate_id,recruiment_source,psychometric_test_score,interview_performance_score,hiring_status
+1001,Indeed,3,1,Rejected
+1002,LinkedIn,0,1,Rejected
+1003,Indeed,13,5,Rejected
+1004,Indeed,0,6,Rejected
+1005,LinkedIn,9,3,Rejected
+1006,LinkedIn,3,9,Hired
+1007,Indeed,11,5,Rejected
+1008,Corprate Website,13,8,Rejected
+1009,Indeed,6,1,Rejected
+1010,Indeed,1,5,Rejected
+1011,Indeed,2,3,Rejected
+1012,Indeed,0,1,Rejected
+1013,LinkedIn,4,4,Hired
+1014,Indeed,0,5,Rejected
+1015,Corprate Website,7,7,Hired
+1016,LinkedIn,0,1,Rejected
+1017,Corprate Website,10,3,Rejected
+1018,Corprate Website,0,2,Rejected
+1019,Corprate Website,1,9,Rejected
+1020,Corprate Website,1,10,Rejected
+1021,LinkedIn,11,6,Rejected
+1022,LinkedIn,5,10,Rejected
+1023,Corprate Website,6,3,Rejected
+1024,Corprate Website,4,8,Rejected
+1025,LinkedIn,15,8,Rejected
+1026,LinkedIn,0,2,Rejected
+1027,LinkedIn,0,6,Rejected
+1028,Indeed,2,7,Hired
+1029,Indeed,13,2,Rejected
+1030,Indeed,1,10,Hired
+1031,Corprate Website,4,2,Rejected
+1032,Indeed,11,10,Rejected
+1033,Corprate Website,9,1,Rejected
+1034,Corprate Website,15,8,Rejected
+1035,Indeed,5,1,Hired
+1036,Corprate Website,15,9,Hired
+1037,Indeed,6,6,Rejected
+1038,Indeed,3,7,Rejected
+1039,LinkedIn,6,10,Hired
+1040,Indeed,10,7,Hired
+1041,LinkedIn,7,10,Rejected
+1042,Indeed,10,3,Hired
+1043,Indeed,0,2,Rejected
+1044,LinkedIn,14,9,Rejected
+1045,LinkedIn,5,8,Hired
+1046,Indeed,7,10,Hired
+1047,Corprate Website,4,7,Rejected
+1048,LinkedIn,3,9,Rejected
+1049,Corprate Website,1,4,Rejected
+1050,Corprate Website,5,4,Rejected
+1051,Corprate Website,5,1,Rejected
+1052,LinkedIn,10,8,Rejected
+1053,Corprate Website,14,3,Rejected
+1054,LinkedIn,15,7,Rejected
+1055,Corprate Website,15,2,Hired
+1056,Indeed,0,2,Rejected
+1057,Indeed,8,7,Rejected
+1058,LinkedIn,11,6,Rejected
+1059,Indeed,10,3,Rejected
+1060,Indeed,5,9,Hired
+1061,Corprate Website,15,10,Rejected
+1062,LinkedIn,12,6,Hired
+1063,Corprate Website,2,10,Rejected
+1064,Corprate Website,3,10,Hired
+1065,Corprate Website,11,6,Hired
+1066,Corprate Website,10,1,Hired
+1067,Corprate Website,3,4,Rejected
+1068,Corprate Website,2,10,Rejected
+1069,Corprate Website,9,6,Rejected
+1070,LinkedIn,2,6,Rejected
+1071,Indeed,14,5,Rejected
+1072,Corprate Website,2,1,Rejected
+1073,Corprate Website,3,8,Rejected
+1074,Corprate Website,15,5,Hired
+1075,Corprate Website,6,5,Rejected
+1076,Corprate Website,3,7,Hired
+1077,Corprate Website,8,4,Rejected
+1078,Indeed,0,6,Hired
+1079,Indeed,7,4,Rejected
+1080,Corprate Website,15,3,Rejected
+1081,Indeed,6,7,Rejected
+1082,LinkedIn,1,8,Hired
+1083,Corprate Website,7,4,Rejected
+1084,LinkedIn,0,2,Rejected
+1085,LinkedIn,10,10,Rejected
+1086,Corprate Website,11,3,Rejected
+1087,Indeed,8,1,Rejected
+1088,LinkedIn,8,8,Rejected
+1089,Corprate Website,1,3,Rejected
+1090,LinkedIn,6,10,Rejected
+1091,LinkedIn,14,7,Rejected
+1092,LinkedIn,13,10,Hired
+1093,LinkedIn,9,5,Rejected
+1094,Indeed,2,10,Rejected
+1095,LinkedIn,6,5,Rejected
+1096,LinkedIn,11,7,Rejected
+1097,LinkedIn,15,9,Rejected
+1098,Indeed,9,5,Rejected
+1099,LinkedIn,15,1,Hired
+1100,LinkedIn,8,10,Rejected
+1101,Indeed,3,10,Rejected
+1102,Indeed,11,1,Rejected
+1103,Indeed,0,2,Hired
+1104,LinkedIn,1,6,Rejected
+1105,Indeed,0,9,Rejected
+1106,Indeed,15,8,Rejected
+1107,LinkedIn,13,5,Rejected
+1108,Indeed,11,1,Rejected
+1109,LinkedIn,4,7,Rejected
+1110,Corprate Website,4,5,Rejected
+1111,Indeed,15,6,Hired
+1112,Corprate Website,10,7,Rejected
+1113,LinkedIn,6,3,Rejected
+1114,Indeed,8,10,Rejected
+1115,LinkedIn,8,3,Rejected
+1116,Corprate Website,2,5,Rejected
+1117,LinkedIn,2,6,Rejected
+1118,Indeed,15,9,Rejected
+1119,Indeed,15,5,Rejected
+1120,Corprate Website,2,1,Hired
+1121,LinkedIn,3,4,Hired
+1122,Indeed,7,5,Rejected
+1123,Corprate Website,5,10,Rejected
+1124,Indeed,7,10,Rejected
+1125,Indeed,0,5,Hired
+1126,LinkedIn,7,7,Rejected
+1127,Indeed,3,4,Rejected
+1128,LinkedIn,10,1,Rejected
+1129,Indeed,0,5,Rejected
+1130,Corprate Website,7,7,Rejected
+1131,Indeed,3,10,Rejected
+1132,LinkedIn,5,10,Rejected
+1133,LinkedIn,7,6,Rejected
+1134,Corprate Website,3,5,Hired
+1135,Indeed,13,4,Rejected
+1136,Indeed,2,2,Rejected
+1137,Corprate Website,15,4,Rejected
+1138,Indeed,13,10,Rejected
+1139,Indeed,8,10,Rejected
+1140,LinkedIn,2,3,Rejected
+1141,Indeed,8,10,Rejected
+1142,Indeed,12,1,Rejected
+1143,Corprate Website,1,8,Hired
+1144,Corprate Website,15,5,Rejected
+1145,LinkedIn,13,4,Hired
+1146,Indeed,1,8,Rejected
+1147,Indeed,1,7,Rejected
+1148,Indeed,5,2,Hired
+1149,LinkedIn,2,1,Rejected
+1150,LinkedIn,15,4,Rejected
+1151,Corprate Website,12,8,Rejected
+1152,LinkedIn,8,2,Hired
+1153,Indeed,3,3,Rejected
+1154,Indeed,0,1,Rejected
+1155,LinkedIn,3,1,Rejected
+1156,Indeed,0,3,Rejected
+1157,Indeed,13,5,Rejected
+1158,LinkedIn,4,3,Rejected
+1159,LinkedIn,15,1,Rejected
+1160,Indeed,3,1,Rejected
+1161,Indeed,7,8,Rejected
+1162,Indeed,15,10,Hired
+1163,Corprate Website,7,2,Hired
+1164,Corprate Website,6,3,Rejected
+1165,Corprate Website,2,2,Rejected
+1166,LinkedIn,0,3,Rejected
+1167,Corprate Website,15,7,Hired
+1168,LinkedIn,0,1,Hired
+1169,LinkedIn,15,10,Hired
+1170,Corprate Website,11,8,Rejected
+1171,Corprate Website,10,10,Rejected
+1172,Corprate Website,2,10,Rejected
+1173,Indeed,5,10,Rejected
+1174,Corprate Website,6,2,Rejected
+1175,Indeed,5,3,Rejected
+1176,LinkedIn,13,9,Rejected
+1177,Indeed,13,7,Rejected
+1178,Corprate Website,5,4,Rejected
+1179,LinkedIn,5,10,Rejected
+1180,LinkedIn,12,5,Rejected
+1181,LinkedIn,2,2,Rejected
+1182,Indeed,5,8,Hired
+1183,Corprate Website,7,4,Rejected
+1184,LinkedIn,10,9,Rejected
+1185,LinkedIn,10,5,Rejected
+1186,LinkedIn,1,9,Rejected
+1187,Indeed,4,4,Rejected
+1188,Indeed,13,10,Rejected
+1189,Corprate Website,0,5,Rejected
+1190,Indeed,11,9,Rejected
+1191,LinkedIn,14,8,Hired
+1192,Corprate Website,15,3,Hired
+1193,LinkedIn,0,1,Hired
+1194,LinkedIn,4,3,Hired
+1195,Indeed,11,4,Hired
+1196,Corprate Website,12,2,Hired
+1197,Indeed,15,1,Rejected
+1198,Indeed,2,7,Hired
+1199,Corprate Website,3,8,Rejected
+1200,LinkedIn,2,7,Rejected
