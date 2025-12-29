@@ -19,8 +19,12 @@ As a candidate with a background in Psychology, I designed this project to demon
 - Calculated average performance metrics and conversion rates (Hiring Rate) for each channel.
 
 ### 3. Executive Dashboard (Tableau)
+<img width="1219" height="652" alt="Screenshot 2025-12-29 at 16 52 32" src="https://github.com/user-attachments/assets/f0f0f287-1fe2-4879-b8ac-4448888f130a" />
+
+
 - Built an interactive dashboard featuring **3 KPIs**: Total Applicants, Hiring Rate, and Average Candidate Quality.
-- Visualized the **Recruitment Funnel** and candidate distribution.
+  <img width="275" height="51" alt="Screenshot 2025-12-29 at 16 50 16" src="https://github.com/user-attachments/assets/5587d951-4264-40cd-bf85-dc20e38d7ae8" />
+- Visualized the **Recruitment Funnel** and candidate distribution. 
 - Created a custom **"Candidate Quality Score"** using weighted calculated fields.
 
 ## Key Findings & Insights
